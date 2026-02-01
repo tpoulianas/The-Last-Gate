@@ -1,15 +1,15 @@
-# 🏰 The Last Gate
+# The Last Gate
 ### Interactive Exploration of a Medieval Castle (Unity Windows Build)
 
 **The Last Gate** is an educational 3D interactive application built with **Unity**.  
 Explore a medieval castle, interact with characters and objects, collect coins, buy souvenirs, manage your inventory, and finish the experience by meeting the Wizard.
 
-🎓 Course: **Human–Computer Interaction**  
-🏫 University of West Attica — Academic Year **2024–2025**
+Course: **Human–Computer Interaction**  
+University of West Attica — Academic Year **2024–2025**
 
 ---
 
-## ✨ Features
+## Features
 - Free exploration of a 3D medieval environment
 - Interactions with NPCs and objects (info panels, dialogue)
 - Coin-based economy system
@@ -20,7 +20,7 @@ Explore a medieval castle, interact with characters and objects, collect coins, 
 
 ---
 
-## 🖥️ System Requirements
+## System Requirements
 
 ### Minimum
 - **OS:** Windows 10 or newer  
@@ -38,7 +38,7 @@ Explore a medieval castle, interact with characters and objects, collect coins, 
 
 ---
 
-## ▶️ How to Run (Windows)
+## How to Run (Windows)
 1. Download the repository (or the **Release .zip** if you publish one).
 2. Open the `GAME/` folder.
 3. Double-click **`The Last Gate.exe`**.
@@ -47,11 +47,11 @@ Explore a medieval castle, interact with characters and objects, collect coins, 
    - **OPTIONS** for settings
    - **QUIT** to exit
 
-⚠️ Keep all files and folders inside `GAME/` together (do not move the `.exe` alone).
+Keep all files and folders inside `GAME/` together (do not move the `.exe` alone).
 
 ---
 
-## 🎮 Controls
+## Controls
 
 | Key | Action |
 |---|---|
@@ -64,12 +64,12 @@ Explore a medieval castle, interact with characters and objects, collect coins, 
 
 ---
 
-## 🧭 Gameplay Flow (Quick)
+## Gameplay Flow (Quick)
 Start → Find the chest (scroll) → Explore the castle → Interact to gain coins → Buy at least one souvenir → Meet the Wizard → Ending.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```
 The-Last-Gate/
 ├── GAME/                 # Unity Windows build (playable)
@@ -81,22 +81,14 @@ The-Last-Gate/
 
 ---
 
-## 📘 Documentation
+## Documentation
 See the **DOCUMENTATION/** folder for:
 - **User Manual** (controls, gameplay, UI, troubleshooting)
 - **Technical Manual** (architecture, systems, flow diagrams)
 
 ---
 
-## 👥 Team
-- Αθανάσιος Μουτζούρης (21390137)  
-- Ταξιάρχης Μπούμπας (21390151)  
-- Τηλέμαχος Πουλιάνας (21390304)  
-- Διονυσία Γιαννοπούλου (21390039)
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 - **Engine:** Unity 3D  
 - **Language:** C#  
 - **Platform:** Windows Desktop  
