@@ -39,7 +39,8 @@ University of West Attica — Academic Year **2024–2025**
 ---
 
 ## How to Run (Windows)
-1. Download the repository (or the **Release .zip** if you publish one).
+1. Download the latest Windows build from the **Releases** section:
+   https://github.com/tpoulianas/The-Last-Gate/releases
 2. Open the `GAME/` folder.
 3. Double-click **`The Last Gate.exe`**.
 4. From the main menu choose:
